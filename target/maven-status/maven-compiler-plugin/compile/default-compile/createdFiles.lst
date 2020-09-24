@@ -1,0 +1,10 @@
+com\jaom\entity\ProductCategories.class
+com\jaom\config\JPAConfig.class
+com\jaom\config\WebAppInitializer.class
+com\jaom\repository\ProductRepository.class
+com\jaom\config\WebMvcConfig.class
+com\jaom\repository\ProductCategoryRepository.class
+com\jaom\service\ProductCategoryService.class
+com\jaom\controller\ProductsController.class
+com\jaom\entity\Products.class
+com\jaom\service\ProductsService.class

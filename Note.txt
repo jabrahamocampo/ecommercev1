@@ -1,0 +1,8 @@
+This app is based on:
+JSP
+Spring MVC
+JPA - Hibernate
+MySql
+
+Source:
+https://www.codejava.net/frameworks/spring/spring-mvc-spring-data-jpa-hibernate-crud-example#Database
